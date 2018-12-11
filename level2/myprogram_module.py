@@ -1,0 +1,3 @@
+import modules
+
+modules.func_in_module()
